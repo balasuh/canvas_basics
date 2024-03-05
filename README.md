@@ -1,0 +1,1 @@
+This is a simple repo with HTML Canvas Basics to document useful learnings in my web development journey.
