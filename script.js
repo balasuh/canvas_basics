@@ -38,7 +38,7 @@ class Particle {
         this.y = mouse.y;
         // this.x = Math.random() * canvas.width; // Random 'x' coordinate between 0 and canvas width
         // this.y = Math.random() * canvas.height; // Random 'y' coordinate between 0 and canvas height
-        this.size = Math.random() * 15 + 1;
+        this.size = Math.random() * 15 + 1; // A random number between 1 and 16
         this.speedX = Math.random() * 2 - 1; // A random number between +1 and -1
         this.speedY = Math.random() * 2 - 1; // A random number between +1 and -1
         this.color = 'hsl(' + hue + ', 100%, 50%)'
